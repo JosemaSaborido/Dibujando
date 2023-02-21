@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dibujando</string>
+    <string name="dibujando">DIBUJANDO</string>
+    <string name="comenzarDibujar">COMENZAR A DIBUJAR</string>
+    <string name="cara">Cara</string>
+    <string name="estrella">Estrella</string>
+    <string name="circulo">Circulo</string>
+</resources>

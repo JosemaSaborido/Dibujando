@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itmCirculo"
+        android:icon="@drawable/circulo"
+        android:title="Circulo"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/itmRojo"
+                android:title="Rojo"
+                />
+            <item
+                android:id="@+id/itmAmarillo"
+                android:title="Amarillo"
+                />
+            <item
+                android:id="@+id/itmVerde"
+                android:title="Verde"
+                />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/itmEstrella"
+        android:icon="@drawable/estrella"
+        android:title="Estrella"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/itmCara"
+        android:icon="@drawable/cara"
+        android:title="Cara"
+        app:showAsAction="always"/>
+</menu>
