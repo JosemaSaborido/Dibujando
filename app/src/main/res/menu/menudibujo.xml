@@ -2,6 +2,16 @@
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item
+        android:id="@+id/itmVolver"
+        android:icon="@drawable/volver"
+        android:title="Volver"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/itmBorrar"
+        android:icon="@drawable/borrador"
+        android:title="Borrador"
+        app:showAsAction="always"/>
+    <item
         android:id="@+id/itmCirculo"
         android:icon="@drawable/circulo"
         android:title="Circulo"
